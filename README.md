@@ -43,4 +43,4 @@ This project consists of several Jupyter notebooks that implement deep learning 
 
 --- 
 
-Do get in touch if you've any questions, (me @ jaroncollis . com)
+Similar to (https://github.com/aqibsaeed/Urban-Sound-Classification)
